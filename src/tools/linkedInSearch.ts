@@ -103,5 +103,5 @@ toolRegistry["linkedin_search"] = {
       };
     }
   },
-  enabled: false
+  enabled: true
 }; 

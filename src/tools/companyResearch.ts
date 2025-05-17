@@ -123,5 +123,5 @@ toolRegistry["company_research"] = {
       };
     }
   },
-  enabled: false  // Disabled by default
+  enabled: true  // Disabled by default
 }; 

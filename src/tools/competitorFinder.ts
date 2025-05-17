@@ -109,5 +109,5 @@ toolRegistry["competitor_finder"] = {
       };
     }
   },
-  enabled: false  // Disabled by default
+  enabled: true  // Disabled by default
 }; 

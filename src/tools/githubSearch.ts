@@ -103,5 +103,5 @@ toolRegistry["github_search"] = {
       };
     }
   },
-  enabled: false
+  enabled: true
 }; 

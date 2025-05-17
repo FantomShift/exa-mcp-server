@@ -102,5 +102,5 @@ toolRegistry["wikipedia_search_exa"] = {
       };
     } 
   },
-  enabled: false
+  enabled: true
 }; 

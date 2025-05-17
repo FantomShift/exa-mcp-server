@@ -95,5 +95,5 @@ toolRegistry["crawling"] = {
       };
     }
   },
-  enabled: false  // Disabled by default
+  enabled: true  // Disabled by default
 }; 
